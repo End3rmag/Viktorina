@@ -1,0 +1,14 @@
+C:\Users\prdb\Desktop\Vicktorina\bin\Debug\net8.0\Vicktorina.exe
+C:\Users\prdb\Desktop\Vicktorina\bin\Debug\net8.0\Vicktorina.deps.json
+C:\Users\prdb\Desktop\Vicktorina\bin\Debug\net8.0\Vicktorina.runtimeconfig.json
+C:\Users\prdb\Desktop\Vicktorina\bin\Debug\net8.0\Vicktorina.dll
+C:\Users\prdb\Desktop\Vicktorina\bin\Debug\net8.0\Vicktorina.pdb
+C:\Users\prdb\Desktop\Vicktorina\obj\Debug\net8.0\Vicktorina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\Vicktorina\obj\Debug\net8.0\Vicktorina.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\Vicktorina\obj\Debug\net8.0\Vicktorina.AssemblyInfo.cs
+C:\Users\prdb\Desktop\Vicktorina\obj\Debug\net8.0\Vicktorina.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\Vicktorina\obj\Debug\net8.0\Vicktorina.dll
+C:\Users\prdb\Desktop\Vicktorina\obj\Debug\net8.0\refint\Vicktorina.dll
+C:\Users\prdb\Desktop\Vicktorina\obj\Debug\net8.0\Vicktorina.pdb
+C:\Users\prdb\Desktop\Vicktorina\obj\Debug\net8.0\Vicktorina.genruntimeconfig.cache
+C:\Users\prdb\Desktop\Vicktorina\obj\Debug\net8.0\ref\Vicktorina.dll
